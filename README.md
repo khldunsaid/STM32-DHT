@@ -1,5 +1,7 @@
 # STM32 DHT11/DHT22 Library
 
+I made some changes to the code to make this library work with STM32 microcontrollers 
+
 ---
 **Description:**  
 DHT11/DHT22 temperature and humidity sensor driver for AVR microcontrollers.  
