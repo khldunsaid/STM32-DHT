@@ -1,7 +1,5 @@
 # STM32 DHT11/DHT22 Library
 
-I made some changes to the code to make this library work with STM32 microcontrollers 
-
 ---
 **Description:**  
 DHT11/DHT22 temperature and humidity sensor driver for AVR microcontrollers.  
@@ -12,7 +10,7 @@ DHT11/DHT22 temperature and humidity sensor driver for AVR microcontrollers.
   + Getting the calculated temperature and/or humidity directly.  
   + Converting the temperature from Celsius to Kelvin or Fahrenheit units.  
   _Read the bottom of "DHT.h" to see all functions available._  
-+  
 
+The original Code has been written for AVR MCU and this fork modifed the libaray to work with Stm32 MCU
 
 ---
